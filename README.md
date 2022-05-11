@@ -19,3 +19,7 @@ provide simple examples for Git training demossww
 this is a simple web project
 
 ## How to contribute
+
+### Copyright
+
+ieeeee
