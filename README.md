@@ -26,4 +26,4 @@ adaasfsffa
 
 ### Copyright
 
-ieeeee kopiraitevbis shesaxeb
+ieeeee kopiraitevbis shesaxeb All ma man yeee
