@@ -20,6 +20,8 @@ this is a simple web project
 
 ## How to contribute
 
+adaasfsffa
+
 ### Copyright
 
 ieeeee kopiraitevbis shesaxeb
